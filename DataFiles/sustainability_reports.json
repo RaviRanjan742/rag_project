@@ -1,0 +1,482 @@
+[
+  {
+    "company_name": "Simmons PLC",
+    "year": 2023,
+    "report_summary": "Chance eat girl offer thing life argue name none population.",
+    "esg_goals": [
+      "Water Neutral by 2026",
+      "Net Zero by 2030",
+      "Biodiversity restoration"
+    ],
+    "achievements": [
+      "Launched ethical supplier audit",
+      "Zero-waste system trial successful",
+      "Installed 150MW solar capacity"
+    ],
+    "report_url": "https://example.com/simmons_plc_2023_report.pdf"
+  },
+  {
+    "company_name": "Davis-Carter",
+    "year": 2023,
+    "report_summary": "Charge they air cut into decision night wind represent sing shake lot beyond pay where thus probably national.",
+    "esg_goals": [
+      "Net Zero by 2030",
+      "Zero landfill waste",
+      "Develop carbon capture systems"
+    ],
+    "achievements": [
+      "Built 12 vertical farms",
+      "Launched ethical supplier audit",
+      "Introduced employee ESG training"
+    ],
+    "report_url": "https://example.com/davis-carter_2023_report.pdf"
+  },
+  {
+    "company_name": "Dawson-Jones",
+    "year": 2022,
+    "report_summary": "Nature center this soon money investment car whole truth attention.",
+    "esg_goals": [
+      "Biodiversity restoration",
+      "Zero plastic by 2030",
+      "Develop carbon capture systems"
+    ],
+    "achievements": [
+      "Introduced AI-powered energy management",
+      "Treated 2.5B liters of water",
+      "Built 2 pilot carbon capture sites"
+    ],
+    "report_url": "https://example.com/dawson-jones_2022_report.pdf"
+  },
+  {
+    "company_name": "Clark, Mata and Hurley",
+    "year": 2023,
+    "report_summary": "Fear quite management smile add dark cost simply town those consumer human the end bed.",
+    "esg_goals": [
+      "Greenhouse-free logistics",
+      "Zero food waste",
+      "Develop carbon capture systems"
+    ],
+    "achievements": [
+      "Reduced carbon emissions by 28%",
+      "Built 2 pilot carbon capture sites",
+      "Plastic usage cut by 60%"
+    ],
+    "report_url": "https://example.com/clark,_mata_and_hurley_2023_report.pdf"
+  },
+  {
+    "company_name": "Clark Ltd",
+    "year": 2024,
+    "report_summary": "From all power marriage could investment few role why away situation conference provide.",
+    "esg_goals": [
+      "Ethical sourcing only",
+      "Climate-resilient operations",
+      "Net Zero by 2030"
+    ],
+    "achievements": [
+      "Launched recycled product line",
+      "Introduced AI-powered energy management",
+      "Introduced employee ESG training"
+    ],
+    "report_url": "https://example.com/clark_ltd_2024_report.pdf"
+  },
+  {
+    "company_name": "Suarez Ltd",
+    "year": 2024,
+    "report_summary": "Effort task somebody anything partner partner born air close might down develop.",
+    "esg_goals": [
+      "100% recyclable packaging",
+      "Zero food waste",
+      "Electric fleet by 2028"
+    ],
+    "achievements": [
+      "Installed 150MW solar capacity",
+      "Plastic usage cut by 60%",
+      "Introduced AI-powered energy management"
+    ],
+    "report_url": "https://example.com/suarez_ltd_2024_report.pdf"
+  },
+  {
+    "company_name": "Mitchell-Poole",
+    "year": 2024,
+    "report_summary": "Process television nearly word in various middle art television hour behavior Republican indeed finally someone sea response.",
+    "esg_goals": [
+      "Zero plastic by 2030",
+      "Electric fleet by 2028",
+      "Local supply chains"
+    ],
+    "achievements": [
+      "Reduced carbon emissions by 28%",
+      "Introduced employee ESG training",
+      "Planted 1M trees"
+    ],
+    "report_url": "https://example.com/mitchell-poole_2024_report.pdf"
+  },
+  {
+    "company_name": "Mueller-Garcia",
+    "year": 2024,
+    "report_summary": "Fine wonder teach college next color scene identify blue focus.",
+    "esg_goals": [
+      "Develop carbon capture systems",
+      "Biodiversity restoration",
+      "Net Zero by 2030"
+    ],
+    "achievements": [
+      "Built 2 pilot carbon capture sites",
+      "Built 12 vertical farms",
+      "Reduced carbon emissions by 28%"
+    ],
+    "report_url": "https://example.com/mueller-garcia_2024_report.pdf"
+  },
+  {
+    "company_name": "Davis Group",
+    "year": 2023,
+    "report_summary": "Factor attorney wish Congress business voice pattern thought down six include prepare.",
+    "esg_goals": [
+      "Ethical sourcing only",
+      "Climate-resilient operations",
+      "Water Neutral by 2026"
+    ],
+    "achievements": [
+      "Launched recycled product line",
+      "Treated 2.5B liters of water",
+      "85% operations on renewables"
+    ],
+    "report_url": "https://example.com/davis_group_2023_report.pdf"
+  },
+  {
+    "company_name": "Garcia Ltd",
+    "year": 2023,
+    "report_summary": "Easy including source improve scene more against billion before seat article deep close technology fall share pick past growth pattern.",
+    "esg_goals": [
+      "Net Zero by 2030",
+      "Ethical sourcing only",
+      "Zero plastic by 2030"
+    ],
+    "achievements": [
+      "Reduced carbon emissions by 28%",
+      "Decreased deforestation by 40%",
+      "Zero-waste system trial successful"
+    ],
+    "report_url": "https://example.com/garcia_ltd_2023_report.pdf"
+  },
+  {
+    "company_name": "Young-Brady",
+    "year": 2023,
+    "report_summary": "Standard civil above build several foreign week choose mother develop performance young away myself customer sing soon hold song second.",
+    "esg_goals": [
+      "Zero plastic by 2030",
+      "Ethical sourcing only",
+      "Develop carbon capture systems"
+    ],
+    "achievements": [
+      "Launched recycled product line",
+      "Plastic usage cut by 60%",
+      "Decreased deforestation by 40%"
+    ],
+    "report_url": "https://example.com/young-brady_2023_report.pdf"
+  },
+  {
+    "company_name": "Garza, Thompson and Turner",
+    "year": 2022,
+    "report_summary": "Style case you no name impact play different perhaps maintain easy seat side two.",
+    "esg_goals": [
+      "Zero food waste",
+      "Net Zero by 2030",
+      "Full wastewater reuse"
+    ],
+    "achievements": [
+      "Installed 150MW solar capacity",
+      "85% operations on renewables",
+      "Zero-waste system trial successful"
+    ],
+    "report_url": "https://example.com/garza,_thompson_and_turner_2022_report.pdf"
+  },
+  {
+    "company_name": "Acevedo, Moreno and Mccormick",
+    "year": 2023,
+    "report_summary": "Marriage over ahead about candidate organization rate allow sound little summer value condition could someone wish several treatment.",
+    "esg_goals": [
+      "Water Neutral by 2026",
+      "100% recyclable packaging",
+      "Local supply chains"
+    ],
+    "achievements": [
+      "Launched recycled product line",
+      "Introduced employee ESG training",
+      "Built 12 vertical farms"
+    ],
+    "report_url": "https://example.com/acevedo,_moreno_and_mccormick_2023_report.pdf"
+  },
+  {
+    "company_name": "Clarke Inc",
+    "year": 2023,
+    "report_summary": "Can lay data three indeed moment peace tend exist computer reveal close office whom single physical various save section.",
+    "esg_goals": [
+      "Fully renewable operations by 2025",
+      "Develop carbon capture systems",
+      "Electric fleet by 2028"
+    ],
+    "achievements": [
+      "Reduced carbon emissions by 28%",
+      "Energy efficiency improved by 15%",
+      "Launched recycled product line"
+    ],
+    "report_url": "https://example.com/clarke_inc_2023_report.pdf"
+  },
+  {
+    "company_name": "Duncan-Ortega",
+    "year": 2022,
+    "report_summary": "Record personal about beat ten food provide step successful try visit fire response work send where clear team.",
+    "esg_goals": [
+      "Develop carbon capture systems",
+      "Water Neutral by 2026",
+      "Zero landfill waste"
+    ],
+    "achievements": [
+      "Zero-waste system trial successful",
+      "Planted 1M trees",
+      "Plastic usage cut by 60%"
+    ],
+    "report_url": "https://example.com/duncan-ortega_2022_report.pdf"
+  },
+  {
+    "company_name": "Sanchez, Wright and Mathews",
+    "year": 2023,
+    "report_summary": "Money customer truth pattern operation sing whatever since development nor others lay treatment until anyone huge begin water especially.",
+    "esg_goals": [
+      "Develop carbon capture systems",
+      "Zero landfill waste",
+      "Local supply chains"
+    ],
+    "achievements": [
+      "Launched recycled product line",
+      "Built 12 vertical farms",
+      "Introduced AI-powered energy management"
+    ],
+    "report_url": "https://example.com/sanchez,_wright_and_mathews_2023_report.pdf"
+  },
+  {
+    "company_name": "Garcia and Sons",
+    "year": 2024,
+    "report_summary": "Example require owner as yes yet magazine fill indeed material just visit economic exist popular.",
+    "esg_goals": [
+      "Local supply chains",
+      "Water Neutral by 2026",
+      "Develop carbon capture systems"
+    ],
+    "achievements": [
+      "Introduced AI-powered energy management",
+      "Plastic usage cut by 60%",
+      "Energy efficiency improved by 15%"
+    ],
+    "report_url": "https://example.com/garcia_and_sons_2024_report.pdf"
+  },
+  {
+    "company_name": "Mclaughlin-Grant",
+    "year": 2024,
+    "report_summary": "Now part while still single Congress machine too thank magazine own day up role six short account seat.",
+    "esg_goals": [
+      "Climate-resilient operations",
+      "Zero landfill waste",
+      "Zero plastic by 2030"
+    ],
+    "achievements": [
+      "Built 2 pilot carbon capture sites",
+      "Planted 1M trees",
+      "Decreased deforestation by 40%"
+    ],
+    "report_url": "https://example.com/mclaughlin-grant_2024_report.pdf"
+  },
+  {
+    "company_name": "Pope-Yu",
+    "year": 2024,
+    "report_summary": "Task like answer believe woman important picture book approach statement teach movie explain.",
+    "esg_goals": [
+      "Greenhouse-free logistics",
+      "Zero landfill waste",
+      "Electric fleet by 2028"
+    ],
+    "achievements": [
+      "Energy efficiency improved by 15%",
+      "Decreased deforestation by 40%",
+      "85% operations on renewables"
+    ],
+    "report_url": "https://example.com/pope-yu_2024_report.pdf"
+  },
+  {
+    "company_name": "Smith, Dean and Crosby",
+    "year": 2024,
+    "report_summary": "Bar during either vote political person reflect age if tell.",
+    "esg_goals": [
+      "Develop carbon capture systems",
+      "Zero plastic by 2030",
+      "Zero food waste"
+    ],
+    "achievements": [
+      "Built 12 vertical farms",
+      "Launched recycled product line",
+      "Introduced employee ESG training"
+    ],
+    "report_url": "https://example.com/smith,_dean_and_crosby_2024_report.pdf"
+  },
+  {
+    "company_name": "Landry-Franklin",
+    "year": 2023,
+    "report_summary": "Although though of world national then particularly simply stock civil according for method include since film matter price leader hold.",
+    "esg_goals": [
+      "Local supply chains",
+      "Electric fleet by 2028",
+      "Ethical sourcing only"
+    ],
+    "achievements": [
+      "Introduced employee ESG training",
+      "Reduced carbon emissions by 28%",
+      "Built 12 vertical farms"
+    ],
+    "report_url": "https://example.com/landry-franklin_2023_report.pdf"
+  },
+  {
+    "company_name": "Wells, Ferguson and Smith",
+    "year": 2022,
+    "report_summary": "Two southern test number exactly list how dinner may center ago thought official.",
+    "esg_goals": [
+      "Zero landfill waste",
+      "Local supply chains",
+      "Water Neutral by 2026"
+    ],
+    "achievements": [
+      "Reduced carbon emissions by 28%",
+      "Introduced employee ESG training",
+      "Zero-waste system trial successful"
+    ],
+    "report_url": "https://example.com/wells,_ferguson_and_smith_2022_report.pdf"
+  },
+  {
+    "company_name": "Williams-Foster",
+    "year": 2024,
+    "report_summary": "Read how cold somebody message network manager tax fine value Mr account worker.",
+    "esg_goals": [
+      "Zero landfill waste",
+      "Fully renewable operations by 2025",
+      "Develop carbon capture systems"
+    ],
+    "achievements": [
+      "Reduced carbon emissions by 28%",
+      "85% operations on renewables",
+      "Launched recycled product line"
+    ],
+    "report_url": "https://example.com/williams-foster_2024_report.pdf"
+  },
+  {
+    "company_name": "Reed LLC",
+    "year": 2022,
+    "report_summary": "Tv without number reality it road television safe end service along thing court away read word return president meeting.",
+    "esg_goals": [
+      "Develop carbon capture systems",
+      "Zero plastic by 2030",
+      "Net Zero by 2030"
+    ],
+    "achievements": [
+      "Introduced employee ESG training",
+      "Reduced carbon emissions by 28%",
+      "Treated 2.5B liters of water"
+    ],
+    "report_url": "https://example.com/reed_llc_2022_report.pdf"
+  },
+  {
+    "company_name": "Montgomery-Leonard",
+    "year": 2023,
+    "report_summary": "Blood worry make mean pressure understand administration ok team.",
+    "esg_goals": [
+      "Full wastewater reuse",
+      "Greenhouse-free logistics",
+      "Zero food waste"
+    ],
+    "achievements": [
+      "Built 12 vertical farms",
+      "Reduced carbon emissions by 28%",
+      "Launched recycled product line"
+    ],
+    "report_url": "https://example.com/montgomery-leonard_2023_report.pdf"
+  },
+  {
+    "company_name": "Farrell, Preston and Pierce",
+    "year": 2023,
+    "report_summary": "His ready want part find before environment source can song.",
+    "esg_goals": [
+      "Climate-resilient operations",
+      "100% recyclable packaging",
+      "Local supply chains"
+    ],
+    "achievements": [
+      "Planted 1M trees",
+      "Launched ethical supplier audit",
+      "Decreased deforestation by 40%"
+    ],
+    "report_url": "https://example.com/farrell,_preston_and_pierce_2023_report.pdf"
+  },
+  {
+    "company_name": "Clark-Pitts",
+    "year": 2024,
+    "report_summary": "Machine put small dream short us mean interesting everyone.",
+    "esg_goals": [
+      "Full wastewater reuse",
+      "Develop carbon capture systems",
+      "Water Neutral by 2026"
+    ],
+    "achievements": [
+      "Installed 150MW solar capacity",
+      "Launched recycled product line",
+      "Zero-waste system trial successful"
+    ],
+    "report_url": "https://example.com/clark-pitts_2024_report.pdf"
+  },
+  {
+    "company_name": "Reed-Estrada",
+    "year": 2023,
+    "report_summary": "Report why night herself end decision left much piece small study fill show account administration notice necessary remember.",
+    "esg_goals": [
+      "Zero food waste",
+      "Net Zero by 2030",
+      "Local supply chains"
+    ],
+    "achievements": [
+      "Introduced employee ESG training",
+      "Energy efficiency improved by 15%",
+      "Plastic usage cut by 60%"
+    ],
+    "report_url": "https://example.com/reed-estrada_2023_report.pdf"
+  },
+  {
+    "company_name": "Simpson and Sons",
+    "year": 2023,
+    "report_summary": "Threat market pass term door toward heart cup especially often why energy per meeting want town community agreement necessary.",
+    "esg_goals": [
+      "Net Zero by 2030",
+      "Electric fleet by 2028",
+      "Local supply chains"
+    ],
+    "achievements": [
+      "Introduced employee ESG training",
+      "Planted 1M trees",
+      "Installed 150MW solar capacity"
+    ],
+    "report_url": "https://example.com/simpson_and_sons_2023_report.pdf"
+  },
+  {
+    "company_name": "Owens, Gonzalez and Smith",
+    "year": 2024,
+    "report_summary": "Its experience relate people defense so politics fire personal or trip out own share sing central tonight hospital trouble experience.",
+    "esg_goals": [
+      "Climate-resilient operations",
+      "Zero plastic by 2030",
+      "Zero landfill waste"
+    ],
+    "achievements": [
+      "Introduced AI-powered energy management",
+      "85% operations on renewables",
+      "Reduced carbon emissions by 28%"
+    ],
+    "report_url": "https://example.com/owens,_gonzalez_and_smith_2024_report.pdf"
+  }
+]

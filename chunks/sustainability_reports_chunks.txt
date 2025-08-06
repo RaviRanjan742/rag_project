@@ -1,0 +1,32 @@
+File: sustainability_reports.csv
+Total Chunks: 2
+==================================================
+
+Chunk 1:
+Dataset: sustainability_reports.csv
+
+Columns: company_name, year, report_summary, esg_goals, achievements, report_url
+
+Shape: 30 rows, 6 columns
+
+Numeric Column Statistics:
+- year: mean 2023.20, std 0.71
+
+------------------------------
+
+Chunk 2:
+Sample Data:
+ company_name year report_summary esg_goals achievements report_url
+ Simmons PLC 2023 Chance eat girl offer thing life argue name none population.   Water Neutral by 2026 ,  Net Zero by 2030 ,  Biodiversity restoration     Launched ethical supplier audit ,  Zero-waste system trial successful ,  Installed 150MW solar capacity   https:  example.com simmons_plc_2023_report.pdf
+ Davis-Carter 2023 Charge they air cut into decision night wind represent sing shake lot beyond pay where thus probably national.   Net Zero by 2030 ,  Zero landfill waste ,  Develop carbon capture systems     Built 12 vertical farms ,  Launched ethical supplier audit ,  Introduced employee ESG training   https:  example.com davis-carter_2023_report.pdf
+ Dawson-Jones 2022 Nature center this soon money investment car whole truth attention.   Biodiversity restoration ,  Zero plastic by 2030 ,  Develop carbon capture systems     Introduced AI-powered energy management ,  Treated 2.5B liters of water ,  Built 2 pilot carbon capture sites   https:  example.com dawson-jones_2022_report.pdf
+Clark, Mata and Hurley 2023 Fear quite management smile add dark cost simply town those consumer human the end bed.   Greenhouse-free logistics ,  Zero food waste ,  Develop carbon capture systems     Reduced carbon emissions by 28  ,  Built 2 pilot carbon capture sites ,  Plastic usage cut by 60    https:  example.com clark,_mata_and_hurley_2023_report.pdf
+ Clark Ltd 2024 From all power marriage could investment few role why away situation conference provide.   Ethical sourcing only ,  Climate-resilient operations ,  Net Zero by 2030     Launched recycled product line ,  Introduced AI-powered energy management ,  Introduced employee ESG training   https:  example.com clark_ltd_2024_report.pdf
+ Suarez Ltd 2024 Effort task somebody anything partner partner born air close might down develop.   100  recyclable packaging ,  Zero food waste ,  Electric fleet by 2028     Installed 150MW solar capacity ,  Plastic usage cut by 60  ,  Introduced AI-powered energy management   https:  example.com suarez_ltd_2024_report.pdf
+ Mitchell-Poole 2024 Process television nearly word in various middle art television hour behavior Republican indeed finally someone sea response.   Zero plastic by 2030 ,  Electric fleet by 2028 ,  Local supply chains     Reduced carbon emissions by 28  ,  Introduced employee ESG training ,  Planted 1M trees   https:  example.com mitchell-poole_2024_report.pdf
+ Mueller-Garcia 2024 Fine wonder teach college next color scene identify blue focus.   Develop carbon capture systems ,  Biodiversity restoration ,  Net Zero by 2030     Built 2 pilot carbon capture sites ,  Built 12 vertical farms ,  Reduced carbon emissions by 28    https:  example.com mueller-garcia_2024_report.pdf
+ Davis Group 2023 Factor attorney wish Congress business voice pattern thought down six include prepare.   Ethical sourcing only ,  Climate-resilient operations ,  Water Neutral by 2026     Launched recycled product line ,  Treated 2.5B liters of water ,  85  operations on renewables   https:  example.com davis_group_2023_report.pdf
+ Garcia Ltd 2023 Easy including source improve scene more against billion before seat article deep close technology fall share pick past growth pattern.   Net Zero by 2030 ,  Ethical sourcing only ,  Zero plastic by 2030     Reduced carbon emissions by 28  ,  Decreased deforestation by 40  ,  Zero-waste system trial successful   https:  example.com garcia_ltd_2023_report.pdf
+
+------------------------------
+
