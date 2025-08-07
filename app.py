@@ -37,11 +37,11 @@ if uploaded_files:
             else:
                 st.error(f"Failed to process {uploaded_file.name}")
 
-# Display processed files
-if st.session_state.processed_files:
-    st.subheader("Processed Files")
-    for file_name in st.session_state.processed_files:
-        st.write(f"- {file_name}")
+# # Display processed files
+# if st.session_state.processed_files:
+#     st.subheader("Processed Files")
+#     for file_name in st.session_state.processed_files:
+#         st.write(f"- {file_name}")
 
 # Clear all data button
 if st.button("Clear All Processed Files"):
